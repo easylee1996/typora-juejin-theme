@@ -4,11 +4,11 @@
 
 ## 主题预览
 
-![CleanShot 2024-01-05 at 17.38.07@2x](/media/theme/foresee/CleanShot 2024-01-05 at 17.38.07@2x.png)
+![first](https://github.com/easylee1996/typora-juejin-theme/blob/main/imgs/first.png?raw=true)
 
 ## 文档示例
 
-![CleanShot 2024-01-05 at 17.37.47@2x](/media/theme/foresee/CleanShot 2024-01-05 at 17.37.47@2x.png)
+![second](https://github.com/easylee1996/typora-juejin-theme/blob/main/imgs/second.png?raw=true)
 
 ## 如何使用
 
